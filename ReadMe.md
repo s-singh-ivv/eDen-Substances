@@ -1,8 +1,9 @@
 # README
 
-The following repository consits of a consise version of the backend code for the publication:
+The following repository consists of a concise version of the backend code for the publication:
 
 **Classification of substances by health hazard using deep neural networks and molecular electron densities.**
+by Singh et al., 2024
 
 The data required for the ECHA dataset is present in the following files:
 
